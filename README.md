@@ -78,22 +78,11 @@ const ritikaa = {
 │   for Distributed Training    │   & Encryption Security       │   Balancing Solutions
 ├── AWS Infrastructure          ├── Rate Limiting &             ├── Comprehensive Monitoring
 │   Cost Optimization (40%)     │   Performance Optimization    │   & Health Checks
-└── 90% Automation Achievement  └── 1000+ Users Supported       └── 500+ Requests/Second
+
 ```
 
 </div>
 
-## 📊 Development Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Ritikaa24k&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikaa24k&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikaa24k&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-</div>
 
 ## 🎨 Current Creative Focus
 
@@ -101,14 +90,6 @@ const ritikaa = {
 
 ```ascii
     ⚡ Innovation in Progress ⚡
-   ┌─────────────────────────────┐
-   │                             │
-   │  🔬 Exploring AI/ML pipelines │
-   │  ☁️ Architecting cloud solutions │
-   │  🎯 Optimizing user experiences │
-   │  🚀 Building scalable systems   │
-   │                             │
-   └─────────────────────────────┘
 ```
 
 **Current Exploration:** *Advanced distributed systems & machine learning integration*  
@@ -134,7 +115,7 @@ const ritikaa = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikaakailas)
 [![Email](https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikaakailas@gmail.com)
-[![AWS Certification](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![AWS Certification]([https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/64a45b0e-ec75-4bee-8731-8a4ffdab7fb7/whatsapp)](#)
 
 **Open to:**  
 🔗 **Technical Collaborations** | 💡 **Innovation Discussions** | 🚀 **Project Partnerships** | 📚 **Knowledge Exchange**
@@ -145,13 +126,12 @@ const ritikaa = {
 
 <div align="center">
 
-### 💭 *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
+### *"The best way to predict the future is to invent it."* - Alan Kay
 
 **Passionate about creating technology that matters. Let's build something extraordinary together.**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ritikaa24k&color=blueviolet&style=for-the-badge)
 
-</div>
 
 ---
 
