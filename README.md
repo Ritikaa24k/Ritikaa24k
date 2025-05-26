@@ -1,4 +1,4 @@
-# 🌟 Ritikaa Kailas | Creative Technology Explorer
+# ✨ Welcome to my digital space! I'm Ritikaa.
 
 <div align="center">
   
