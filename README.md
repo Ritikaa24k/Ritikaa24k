@@ -66,37 +66,6 @@ const ritikaa = {
 
 </div>
 
-## 🚀 Featured Engineering Projects
-
-<div align="center">
-
-```
-🤖 ML Pipeline Orchestration    🔄 Real-Time Communication     🏗️ Microservices Architecture
-├── Automated CI/CD with        ├── WebSocket & Redis           ├── Spring Boot Services
-│   GitLab & Terraform          │   Pub/Sub Implementation      │   on Kubernetes Platform
-├── Docker Swarm Clustering     ├── JWT Authentication          ├── Auto-scaling & Load
-│   for Distributed Training    │   & Encryption Security       │   Balancing Solutions
-├── AWS Infrastructure          ├── Rate Limiting &             ├── Comprehensive Monitoring
-│   Cost Optimization (40%)     │   Performance Optimization    │   & Health Checks
-
-```
-
-</div>
-
-
-## 🎨 Current Creative Focus
-
-<div align="center">
-
-```ascii
-    ⚡ Innovation in Progress ⚡
-```
-
-**Current Exploration:** *Advanced distributed systems & machine learning integration*  
-**Learning Journey:** *Cloud-native architectures & modern development practices*  
-**Focus Areas:** *Performance optimization & innovative problem-solving approaches*
-
-</div>
 
 ## 🏆 Professional Credentials
 
@@ -115,7 +84,7 @@ const ritikaa = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikaakailas)
 [![Email](https://img.shields.io/badge/Professional_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikaakailas@gmail.com)
-[![AWS Certification]([https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/64a45b0e-ec75-4bee-8731-8a4ffdab7fb7/whatsapp)](#)
+[![AWS Certification](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/64a45b0e-ec75-4bee-8731-8a4ffdab7fb7/whatsapp)
 
 **Open to:**  
 🔗 **Technical Collaborations** | 💡 **Innovation Discussions** | 🚀 **Project Partnerships** | 📚 **Knowledge Exchange**
